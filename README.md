@@ -22,7 +22,7 @@
 - [fairdom-seek.org](https://fairdom-seek.org/)
 
 ## Contact
-For any questions or feedback, please contact me (Taïsha Joseph) at taishajo@mit.edu.
+For any questions or feedback, please contact [Taïsha Joseph](mailto:taishajo@mit.edu).
 
 
 
