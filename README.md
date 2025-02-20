@@ -15,10 +15,17 @@
 - BAML (boundary markup language) for LLM structured output
 
 ## Resources
-- fair-dom.org
-- fairdom-seek.org
 - [LangGraph](https://langchain-ai.github.io/langgraph/)
 - [Pre-built Agent Library](https://github.com/langchain-ai/langgraph-supervisor)
+- [Boundary markup language (BAML)](https://docs.boundaryml.com/guide/introduction/what-is-baml) 
+- [fair-dom.org](https://fair-dom.org/)
+- [fairdom-seek.org](https://fairdom-seek.org/)
+
+## Contact
+For any questions or feedback, please contact me (Taïsha Joseph) at taishajo@mit.edu.
+
+
+
 
 
 
