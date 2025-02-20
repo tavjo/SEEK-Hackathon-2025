@@ -1,0 +1,65 @@
+title,description,clade,grouping
+A.ADCP,ADCP Analysis,Analyzed,Antibody-Dependent Functional Profiling Analysis
+A.ADNKA,ADNKA Analysis,Analyzed,Antibody-Dependent Functional Profiling Analysis
+A.ADNP,ADNP Analysis,Analyzed,Antibody-Dependent Functional Profiling Analysis
+A.ALN,Sequence Alignment Analysis,Analyzed,Sequence Alignment Analysis
+A.CCE,Cancer Cell Extravasation Assay Analysis,Analyzed,Cancer Cell Extravasation Assay Analysis
+A.CLOT,Clot Forming Assay Analysis,Analyzed,Clot Forming Assay Analysis
+A.COMC,Comet Chip Analysis,Analyzed,Comet Chip Analysis
+A.CTSC,CT Scan Analysis,Analyzed,CT Scan Analysis
+A.DBMM,Digitally Barcoded MTB Matrix Analysis,Analyzed,Digitally Barcoded MTB Matrix Analysis
+A.FCRB,FCRB Analysis,Analyzed,FCRB Analysis
+A.FLOW,Flow Cytometry Analysis,Analyzed,Flow Cytometry Analysis
+A.GEX,Gene Expression Analysis,Analyzed,Gene Expression Analysis
+A.IMG,Imaging Analysis,Analyzed,Imaging Analysis
+A.LMX,Luminex Analysis,Analyzed,Luminex Analysis
+A.MIGR,Migration Analysis,Analyzed,Migration Analysis
+A.MSP,Mass Spectrometry Analysis Data,Analyzed,Mass Spectrometry Analysis Data
+A.MUSP,Mutational Spectra Analysis,Analyzed,Mutational Spectra Analysis
+A.NMR,Nuclear Magnetic Resonance Analysis,Analyzed,Nuclear Magnetic Resonance Analysis
+A.PERM,Permeability Assay Analysis,Analyzed,Permeability Assay Analysis
+A.SCCL,Single Cell Clustering Analysis,Analyzed,Single Cell Clustering Analysis
+A.SCXP,Single Cell Expression Matrix Analysis,Analyzed,Single Cell Expression Matrix Analysis
+A.SPC,Spectroscopy Analysis,Analyzed,Spectroscopy Analysis
+A.TITR,Titer Assay Analysis,Analyzed,Titer Assay Analysis
+AB,Antibody Sample,Source,Antibody Sample
+ABP,Antibody Panel Sample (Collection of Antibodies),Source,Antibody Panel Sample (Collection of Antibodies)
+BAC,Bacteria Sample,Source,Bacteria Sample
+CEL,Cell Sample,Source,Cell Sample
+CEX,Cell Extract Sample,Processed,Cell Extract Sample
+CHM,Chemical Sample,Source,Chemical Sample
+D.ADCD,Antibody Dependent Complement Deposition Data,Raw,Antibody-Dependent Functional Profiling
+D.ADCP,Antibody Dependent Cellular Phagocytosis Data,Raw,Antibody-Dependent Functional Profiling
+D.ADNKA,Antibody Dependent NK cell activation Data,Raw,Antibody-Dependent Functional Profiling
+D.ADNP,Antibody Dependent Neutrophil Phagocytosis Data,Raw,Antibody-Dependent Functional Profiling
+D.BSRA,Bacterial Survivability Assay,Raw,Bacterial Survivability Assay
+D.CRY,Crystallography Data,Raw,Crystallography Data
+D.ELSA,ELISA Assay Data,Raw,ELISA Assay Data
+D.FCRB,Fc-gamma Receptor Binding Assay data,Raw,Fc-gamma Receptor Binding Assay data
+D.FCS,Flow Cytometry Compensation File Data,Raw,Flow Cytometry Compensation File Data
+D.FLOW,Flow Cytometry Data,Raw,Flow Cytometry Data
+D.GLYN,Glycosylation Assay,Raw,Glycosylation Assay
+D.GPC,Gel Permeation Chromatography,Raw,Gel Permeation Chromatography
+D.GPT,GPT Assay Data,Raw,GPT Assay Data
+D.IMG,Imaging Data,Raw,Imaging Data
+D.LMX,Luminex Data,Raw,Luminex Data
+D.MSP,Mass Spectrometry Data,Raw,Mass Spectrometry Data
+D.NMR,Nuclear Magnetic Resonance Data,Raw,Nuclear Magnetic Resonance Data
+D.PRM,Paramagnetic Resonance Data,Raw,Paramagnetic Resonance Data
+D.SEQ,Sequencing Data,Raw,Sequencing Data
+D.SNSR,Sensor Data,Raw,Sensor Data
+D.SPC,Spectroscopy Data,Raw,Spectroscopy Data
+D.TITR,Titer Assay Data,Raw,Titer Assay Data
+D.TNSY,Tensiometry Assay,Raw,Tensiometry Assay
+D.XRS,X-Ray Spectroscopy Data,Raw,X-Ray Spectroscopy Data
+DNA,DNA Sample,Processed,DNA Sample
+LOC,Geographical Location Sample,Source,Geographical Location Sample
+M.CNN,Convolutional Neural Network Model,Analyzed,Convolutional Neural Network Model
+M.LMM,Linear Mixed Model,Analyzed,Linear Mixed Model
+MUS,Mouse,Source,Mouse
+NHP,Non Human Primates,Source,Non Human Primates
+OOC,Organ on Chip Sample,Processed,Organ on Chip Sample
+PAT,Patient,Source,Patient
+PAV,Patient Visit,Source,Patient Visit
+RNA,RNA Sample,Processed,RNA Sample
+TIS,Tissue Sample,Processed,Tissue Sample
