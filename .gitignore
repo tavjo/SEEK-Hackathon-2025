@@ -1,6 +1,7 @@
 .env
 curate_data.ipynb
 PublishSamplesFDH_250214_final.xlsx
+basic_chat.ipynb
 
 # Logs
 logs/
